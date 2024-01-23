@@ -1,0 +1,54 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "title": "First Post",
+      "id": 1
+    },
+    {
+      "userId": 2,
+      "title": "Second Post",
+      "id": 2
+    },
+    {
+      "userId": 3,
+      "title": "Third Post",
+      "id": 3
+    },
+    {
+      "userId": 4,
+      "title": "Fourth Post",
+      "id": 4
+    },
+    {
+      "userId": 5,
+      "title": "Fifth Post",
+      "id": 5
+    },
+    {
+      "userId": 6,
+      "title": "Sixth Post",
+      "id": 6
+    },
+    {
+      "userId": 7,
+      "title": "Seventh Post",
+      "id": 7
+    },
+    {
+      "userId": 8,
+      "title": "Eighth Post",
+      "id": 8
+    },
+    {
+      "userId": 9,
+      "title": "Ninth Post",
+      "id": 9
+    },
+    {
+      "userId": 10,
+      "title": "Tenth Post",
+      "id": 10
+    }
+  ]
+}
